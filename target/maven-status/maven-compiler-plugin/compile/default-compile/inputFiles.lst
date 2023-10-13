@@ -1,0 +1,10 @@
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/erros/ExceptionHandlerVontroller.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/task/TeskControler.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/task/TeskModel.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/filter/FilterTaskAuth.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/user/UserModel.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/TodolistApplication.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/user/IUserRepository.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/task/ITeskRepository.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/utils/Utils.java
+/home/filipe/Projetos/rocketseat/todolist/src/main/java/br/com/filipealves/todolist/user/UserController.java

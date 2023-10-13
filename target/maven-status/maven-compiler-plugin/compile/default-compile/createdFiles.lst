@@ -1,0 +1,10 @@
+br/com/filipealves/todolist/utils/Utils.class
+br/com/filipealves/todolist/user/IUserRepository.class
+br/com/filipealves/todolist/user/UserController.class
+br/com/filipealves/todolist/user/UserModel.class
+br/com/filipealves/todolist/task/TeskControler.class
+br/com/filipealves/todolist/task/ITeskRepository.class
+br/com/filipealves/todolist/erros/ExceptionHandlerVontroller.class
+br/com/filipealves/todolist/TodolistApplication.class
+br/com/filipealves/todolist/task/TeskModel.class
+br/com/filipealves/todolist/filter/FilterTaskAuth.class
